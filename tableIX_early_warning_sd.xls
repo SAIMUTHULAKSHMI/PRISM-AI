@@ -1,0 +1,5 @@
+,Detected,At_20pct,Lead_months,False_alarm
+EVM index rule,0.52,3.19,0.72,3.19
+Logistic regression,1.53,2.87,0.77,2.13
+Random forest,1.4,4.16,0.87,2.58
+Proposed GBDT,1.14,2.53,0.8,2.0

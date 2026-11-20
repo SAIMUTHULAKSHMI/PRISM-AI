@@ -1,0 +1,6 @@
+,Delay MAE,Delay RMSE,Cost MAE,Cost RMSE
+EVM extrapolation,0.061,0.082,2.881,9.758
+Linear (ridge),0.036,0.092,1.258,4.808
+SVR (RBF),0.036,0.056,3.912,47.468
+Random forest,0.064,0.106,1.917,15.515
+Proposed GBDT,0.037,0.059,1.621,11.651
